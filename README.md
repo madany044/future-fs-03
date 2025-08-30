@@ -39,6 +39,14 @@ A modern, Starbucks-inspired web app for a fictional coffee shop, built with Nex
    ```bash
    npm run dev
 
+## Snapshots
+
+![Home Page](mysore-coffee-hub/public/assets/Home-page.png)
+
+![Featured Menu ](client/public/assets/menu.png)
+
+![Rewards & Footer](client/public/assets/footer-page.png)
+
 ##  License
 
 This project is for personal, demo, portfolio use only. Not for commercial Starbucks use!  
