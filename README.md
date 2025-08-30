@@ -48,5 +48,5 @@ Inspired by Starbucks for educational purposes.
 
 ##  Author
 
-MADAN Y (https://github.com/your-username)  
+MADAN Y (https://github.com/madany044)  
 Project inspired, designed, and coded for learning and demo use.
