@@ -41,7 +41,7 @@ A modern, Starbucks-inspired web app for a fictional coffee shop, built with Nex
 
 ##  License
 
-This project is for personal, demo, or portfolio use only. Not for commercial Starbucks use!  
+This project is for personal, demo, portfolio use only. Not for commercial Starbucks use!  
 Inspired by Starbucks for educational purposes.
 
 ---
